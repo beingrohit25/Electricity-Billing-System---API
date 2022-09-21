@@ -20,7 +20,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 /**
  * @Author rohit.parihar 9/17/2022
- * @Class securityConfiguration
+ * @Class securityConfiguration (Completed)
  * @Project Electricity Bill Payment
  */
 
