@@ -6,7 +6,7 @@ import lombok.Setter;
 
 /**
  * @Author rohit.parihar 9/18/2022
- * @Class changePassword
+ * @Class changePassword (Completed)
  * @Project Electricity Bill Payment
  */
 
