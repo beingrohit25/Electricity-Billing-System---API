@@ -14,9 +14,6 @@
 <h4 align="left">6. Bill Module</h4>
 <h4 align="left">7. Payment Module</h4>
 
-![ER- Diagram](https://github.com/rohitparih/Electricity-Bill-Payment/blob/e1d3dba94fb2e78a9bd683460275906e9393cbec/Electricity%20Bill%20Payment/src/main/resources/static/EBP_ER.png)
-
-
 <h2 align="left">Customer Module</h2>
 <h4>1. Create Customer :http://localhost:8080/ebp/customer/</h4>
 <div>
