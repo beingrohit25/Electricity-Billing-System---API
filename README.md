@@ -10,7 +10,7 @@
 <br><br>
 <h2>Configure or Add some Essential properties to your System</h2>
 <h5>Add your Schema or Database in application.properties</h5>
-<h5>One email Id and 16 Ditis code in application.properties</h5>
+<h5>One email Id and 16 Digits code in application.properties</h5>
 <h5>Install Lombok</h5>
 <h5>Java version 8 or greater (If you are using other than Java 11 then change version of Java in pom.xml)</h5>
 <br><br>
