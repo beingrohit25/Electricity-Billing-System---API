@@ -47,6 +47,6 @@
 <h4 align="left">22. User can use Forgot password from User controller to generate new Password. New Password will be sent to your email Id. Length of new Random password will be 8 containing Alpha Numeric.</h4>
 <h4 align="left">23. After that User can change their password. Old password will be the password you get in your Email and New password will be your desired password.</h4>
 <h4 align="left">24. Admin can track the activity of All the users with the help of given Link http://localhost:8080/access-history/list</h4>
-
+<br><br>
 <h1 align="center">Electric Bill Payment Project</h1>
 <h3 align="center">Thank You</h3>
