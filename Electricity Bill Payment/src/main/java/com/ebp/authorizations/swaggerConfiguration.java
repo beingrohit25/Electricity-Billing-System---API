@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @Author rohit.parihar 9/20/2022
- * @Class swaggerConfiguration
+ * @Class swaggerConfiguration (Completed)
  * @Project Electricity Bill Payment
  */
 
