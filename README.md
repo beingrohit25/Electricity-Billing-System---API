@@ -1,9 +1,8 @@
 <h1 align="center">Electric Bill Payment Project</h1>
-<h3 align="center">Team 3</h3>
+<h3 align="center">REST API</h3>
 <br><br>
 <h2 align="left">Contact Us :-</h2>
-<h5 align="left">rohitparih@gmail.com, punyam2000@gmail.com, samkaushik2000@gmail.com, sakshibita1999@gmail.com</h5>
-<h5 align="left">ritik.sharma7910@gmail.com, vohraanas@outlook.com</h5>
+<h5 align="left">rohitparih@gmail.com</h5>
 <br><br>
 <h2 align="left">Languages and Tools used:</h2>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> &nbsp  &nbsp </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>  &nbsp &nbsp </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>  &nbsp &nbsp</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> &nbsp &nbsp </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/> </a> </p>
